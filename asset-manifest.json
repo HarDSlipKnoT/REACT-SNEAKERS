@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/HarDSlipKnoT/REACT-SNEAKERS.git/static/css/main.fc92f45e.css",
-    "main.js": "/HarDSlipKnoT/REACT-SNEAKERS.git/static/js/main.b7526938.js",
-    "index.html": "/HarDSlipKnoT/REACT-SNEAKERS.git/index.html",
-    "main.fc92f45e.css.map": "/HarDSlipKnoT/REACT-SNEAKERS.git/static/css/main.fc92f45e.css.map",
-    "main.b7526938.js.map": "/HarDSlipKnoT/REACT-SNEAKERS.git/static/js/main.b7526938.js.map"
+    "main.css": "/REACT-SNEAKERS/static/css/main.fc92f45e.css",
+    "main.js": "/REACT-SNEAKERS/static/js/main.b7526938.js",
+    "index.html": "/REACT-SNEAKERS/index.html",
+    "main.fc92f45e.css.map": "/REACT-SNEAKERS/static/css/main.fc92f45e.css.map",
+    "main.b7526938.js.map": "/REACT-SNEAKERS/static/js/main.b7526938.js.map"
   },
   "entrypoints": [
     "static/css/main.fc92f45e.css",
